@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "user_id": "david_nit",
+      "user_name": "Dvaid",
+      "password": "david",
+      "email": "David@gmail.com",
+      "id": "YlIrhuDCehc"
+    },
+    {
+      "user_id": "Samson",
+      "user_name": "samson",
+      "password": "sam123",
+      "email": "sam@gmail.com",
+      "id": "mwYqMLPlZaw"
+    },
+    {
+      "user_id": "karan123",
+      "user_name": "karan",
+      "password": "kar@123",
+      "email": "karan@gmail.com",
+      "id": "8HDW9xi8UVU"
+    },
+    {
+      "user_id": "karan123",
+      "user_name": "karan",
+      "password": "kar@123",
+      "email": "karan@gmail.com",
+      "id": "h-4l5KHKG3c"
+    },
+    {
+      "user_id": "karan123",
+      "user_name": "karan",
+      "password": "kar@123",
+      "email": "karan@gmail.com",
+      "id": "YTv5Ng5yJb4"
+    },
+    {
+      "user_id": "karan123",
+      "user_name": "karan",
+      "password": "kar@123",
+      "email": "karan@gmail.com",
+      "id": "8I_PextrcIA"
+    },
+    {
+      "user_id": "karan123",
+      "user_name": "karan",
+      "password": "kar@123",
+      "email": "karan@gmail.com",
+      "id": "Un7lJwPhS5Q"
+    },
+    {
+      "user_id": "karan123",
+      "user_name": "karan",
+      "password": "kar@123",
+      "email": "karan@gmail.com",
+      "id": "CYBbYz2Cuhk"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "gneCH8GYn9Q"
+    },
+    {
+      "id": "tORxrpZ3XTY",
+      "title": "Birthday",
+      "description": "Party at 2pm\n",
+      "date": "2023-06-20",
+      "user_id": "Samson"
+    },
+    {
+      "id": "dwUNlAc5OHo",
+      "title": "React Class",
+      "description": "Attend Class Regular",
+      "date": "2026-06-25",
+      "user_id": "david_nit"
+    },
+    {
+      "title": "Conference",
+      "description": "AI Conference",
+      "date": "2026-07-04",
+      "user_id": "david_nit",
+      "id": "s-YXDRDlivk"
+    },
+    {
+      "title": "Sam Birthday",
+      "description": "Party at 10pm",
+      "date": "2026-06-20",
+      "user_id": "david_nit",
+      "id": "RNffmKYz4ik"
+    },
+    {
+      "id": "UnCAQ9USOXA",
+      "title": "Meeting with Client",
+      "description": "client meeting(updated)",
+      "date": "2026-06-25",
+      "user_id": "david_nit"
+    },
+    {
+      "title": "html",
+      "description": "Class",
+      "date": "2026-06-25T07:34:21.926Z",
+      "user_id": "david_nit",
+      "id": "DcI9k2vsl64"
+    },
+    {
+      "id": "K-SaR7soXpM",
+      "title": "diwali",
+      "description": "party",
+      "date": "2026-11-03",
+      "user_id": "Samson"
+    },
+    {
+      "id": "g7X9BF9ufPc",
+      "title": "Diwali",
+      "description": "bonus ",
+      "date": "2026-11-08",
+      "user_id": "karan123"
+    }
+  ],
+  "$Schema": "./node_modules/json-server/schema.json",
+  "$schema": "./node_modules/json-server/schema.json"
+}
